@@ -1,0 +1,71 @@
+.main{
+    background-color: rgb(222, 222, 222);
+    height: 50px;
+  
+  
+}
+.boundary{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.about{
+    margin-left: 200px;
+    margin-top: 15px;
+    font-size: 20px;
+   
+    color: red;
+    
+    
+}
+.cc{
+    margin-right: 200px;
+    margin-top: 15px;
+    font-size: 20px;
+   
+    color: red;
+}
+.logo{
+    margin-left: 250px;
+
+    margin-top: 15px;
+    font-size: 20px;
+   
+    color: red;
+
+}
+.join{
+    margin-top: 15px;
+    font-size: 20px;
+   
+    color: red;
+
+}
+.sponsor{
+    margin-top: 15px;
+    font-size: 20px;
+   
+    color: red;
+
+}
+.news{
+    margin-top: 15px;
+    font-size: 20px;
+   
+    color: red;
+}
+.hello{
+    color: red;
+    font-size: 30px;
+}
+.creative{
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+.main2{
+    position: relative;
+    top:130px;
+    left:90px;
+}
