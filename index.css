@@ -68,4 +68,106 @@
     position: relative;
     top:130px;
     left:90px;
+    height: 500px;
+    
+}
+.x2{
+    position: relative;
+    top:40px;
+    font-size: 40px;
+    color: gray;
+    font-weight: bolder;
+
+}
+.kor{
+    position:relative ;
+    top:40px
+}
+.mainxx{
+    height: 500px;
+    background-color: gray;
+}
+.prg{
+    display: flex;
+    justify-content: center;
+}
+.programs{
+    font-size: 40px;
+    color: white;
+}
+.bglec{
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+  
+    
+}
+.lec{
+    position: relative;
+    left:40px;
+    top:20px;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+.pratx{
+    display: inline;
+    position: relative;
+    top:30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    top:40px;
+    
+}
+.lec2{
+    position: relative;
+    top:10px;
+    font-size: 25px;
+    font-weight: bold;
+    left:50px;
+    color: red;
+
+}
+.parax2{
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    top:20px;
+    color:white
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.gh{
+  
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.seep{
+    font-size: 30px;
+    position: relative;
+    top:130px;
+    color: white;
+}
+.xsp{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+
+    font-size: 30px;
+    position: relative;
+    top:20px;
+
 }
